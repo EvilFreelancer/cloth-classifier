@@ -1,0 +1,7 @@
+/.idea/
+/venv/
+/F_MNIST_data/
+/output/
+/docker-compose.yml
+/*.png
+__pycache__
